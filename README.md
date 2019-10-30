@@ -10,5 +10,5 @@ The result from this model is an accuracy of 80% predictability, I think that sc
 
 With the hiperparameter grid tunning, I added two 100 node layers before the output layer, generated 6 batch sizes for sampling and 3 different epochs.
 
-The best grid model resulted beeing the one with the highest batch size and epochs, i will be adding more fine tunned steps on batch sizes and epochs in the next model. 
+The best grid model resulted beeing the one with the highest batch size and epochs resulting in 87% predictability, I will be adding more fine tunned steps on batch sizes and epochs in the next model. 
 
