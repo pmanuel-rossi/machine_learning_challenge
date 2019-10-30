@@ -12,3 +12,8 @@ With the hiperparameter grid tunning, I added two 100 node layers before the out
 
 The best grid model resulted beeing the one with the highest batch size and epochs resulting in 87% predictability, I will be adding more fine tunned steps on batch sizes and epochs in the next model. 
 
+## 30 columns model
+
+Then I chose just to increase the selected columns to see if the model would improve, it did.
+
+The new trained model has 92% accuracy when trained on the grid. 
